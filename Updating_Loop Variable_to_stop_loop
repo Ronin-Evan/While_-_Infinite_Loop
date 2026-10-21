@@ -1,0 +1,6 @@
+total_chores = 5
+answer = 8
+chore_num = 1
+while chore_num <= total_chores:
+    if answer == "yes":
+        chore_num += 1

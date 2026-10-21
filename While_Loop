@@ -1,0 +1,5 @@
+total_chores = 5
+chore_num = 1
+while chore_num <= total_chores:
+    ...
+    chore_num += 1

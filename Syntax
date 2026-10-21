@@ -1,0 +1,2 @@
+while chore_num <= total_chores:
+    answer = input(f"Have you finished: {next_chore}? ")
